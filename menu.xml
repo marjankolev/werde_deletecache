@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<OX>
+	<OXMENU id="WERDE_MODULES">
+        <MAINMENU id="WERDE_DELETECACHE_TITLE">
+            <SUBMENU id="WERDE_DELETE_CACHE_MENU" cl="werde_deletecache">
+                <TAB id="WERDE_DELETE_CACHE_MENU" cl="werde_deletecache" />
+            </SUBMENU>
+        </MAINMENU>
+    </OXMENU>
+</OX>
